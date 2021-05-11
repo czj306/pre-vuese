@@ -1,0 +1,22 @@
+{
+  "name": "vuese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vuese serve --open",
+    "preview": "vuese preview ./src/components/Demo/index.vue",
+    "docs": "vuese gen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czj306/vuese.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czj306/vuese/issues"
+  },
+  "homepage": "https://github.com/czj306/vuese#readme"
+}

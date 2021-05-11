@@ -1,0 +1,7 @@
+{
+  "include": "./src/components/*/*.vue",
+  "outDir": "docs",
+  "markdownDir": "components",
+  "title": "Component UI Api",
+  "exclude": ["node_modules/**/*.vue"]
+}
